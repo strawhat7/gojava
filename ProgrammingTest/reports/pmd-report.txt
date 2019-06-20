@@ -1,0 +1,400 @@
+src/서영호/MainClass.java:6:	Avoid unused imports such as 'java.util.ArrayList'
+src/서영호/MainClass.java:6:	Avoid unused imports such as 'java.util.ArrayList'
+src/서영호/MainClass.java:13:	Classes implementing Serializable should set a serialVersionUID
+src/서영호/MainClass.java:13:	Classes implementing Serializable should set a serialVersionUID
+src/서영호/MainClass.java:13:	Header comments are required
+src/서영호/MainClass.java:13:	Header comments are required
+src/서영호/MainClass.java:13:	The class 'MainClass' has a Modified Cyclomatic Complexity of 5 (Highest = 12).
+src/서영호/MainClass.java:13:	The class 'MainClass' has a Modified Cyclomatic Complexity of 5 (Highest = 12).
+src/서영호/MainClass.java:13:	The class 'MainClass' has a Standard Cyclomatic Complexity of 5 (Highest = 12).
+src/서영호/MainClass.java:13:	The class 'MainClass' has a Standard Cyclomatic Complexity of 5 (Highest = 12).
+src/서영호/MainClass.java:15:	Field comments are required
+src/서영호/MainClass.java:15:	Field comments are required
+src/서영호/MainClass.java:15:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/서영호/MainClass.java:15:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/서영호/MainClass.java:15:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/서영호/MainClass.java:15:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/서영호/MainClass.java:15:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/서영호/MainClass.java:15:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/서영호/MainClass.java:15:	To avoid mistakes add a comment at the beginning of the jp1 field if you want a default access modifier
+src/서영호/MainClass.java:15:	To avoid mistakes add a comment at the beginning of the jp1 field if you want a default access modifier
+src/서영호/MainClass.java:15:	Use explicit scoping instead of the default package private level
+src/서영호/MainClass.java:15:	Use explicit scoping instead of the default package private level
+src/서영호/MainClass.java:15:	Use one line for each declaration, it enhances code readability.
+src/서영호/MainClass.java:15:	Use one line for each declaration, it enhances code readability.
+src/서영호/MainClass.java:16:	Field comments are required
+src/서영호/MainClass.java:16:	Field comments are required
+src/서영호/MainClass.java:16:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/서영호/MainClass.java:16:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/서영호/MainClass.java:16:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/서영호/MainClass.java:16:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/서영호/MainClass.java:16:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/서영호/MainClass.java:16:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/서영호/MainClass.java:16:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/서영호/MainClass.java:16:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/서영호/MainClass.java:16:	To avoid mistakes add a comment at the beginning of the jl1 field if you want a default access modifier
+src/서영호/MainClass.java:16:	To avoid mistakes add a comment at the beginning of the jl1 field if you want a default access modifier
+src/서영호/MainClass.java:16:	Use explicit scoping instead of the default package private level
+src/서영호/MainClass.java:16:	Use explicit scoping instead of the default package private level
+src/서영호/MainClass.java:16:	Use one line for each declaration, it enhances code readability.
+src/서영호/MainClass.java:16:	Use one line for each declaration, it enhances code readability.
+src/서영호/MainClass.java:17:	Field comments are required
+src/서영호/MainClass.java:17:	Field comments are required
+src/서영호/MainClass.java:17:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/서영호/MainClass.java:17:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/서영호/MainClass.java:17:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/서영호/MainClass.java:17:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/서영호/MainClass.java:17:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/서영호/MainClass.java:17:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/서영호/MainClass.java:17:	To avoid mistakes add a comment at the beginning of the tf1 field if you want a default access modifier
+src/서영호/MainClass.java:17:	To avoid mistakes add a comment at the beginning of the tf1 field if you want a default access modifier
+src/서영호/MainClass.java:17:	Use explicit scoping instead of the default package private level
+src/서영호/MainClass.java:17:	Use explicit scoping instead of the default package private level
+src/서영호/MainClass.java:17:	Use one line for each declaration, it enhances code readability.
+src/서영호/MainClass.java:17:	Use one line for each declaration, it enhances code readability.
+src/서영호/MainClass.java:18:	Field comments are required
+src/서영호/MainClass.java:18:	Field comments are required
+src/서영호/MainClass.java:18:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/서영호/MainClass.java:18:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/서영호/MainClass.java:18:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/서영호/MainClass.java:18:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/서영호/MainClass.java:18:	To avoid mistakes add a comment at the beginning of the jr1 field if you want a default access modifier
+src/서영호/MainClass.java:18:	To avoid mistakes add a comment at the beginning of the jr1 field if you want a default access modifier
+src/서영호/MainClass.java:18:	Use explicit scoping instead of the default package private level
+src/서영호/MainClass.java:18:	Use explicit scoping instead of the default package private level
+src/서영호/MainClass.java:18:	Use one line for each declaration, it enhances code readability.
+src/서영호/MainClass.java:18:	Use one line for each declaration, it enhances code readability.
+src/서영호/MainClass.java:19:	Field comments are required
+src/서영호/MainClass.java:19:	Field comments are required
+src/서영호/MainClass.java:19:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/서영호/MainClass.java:19:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/서영호/MainClass.java:19:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/서영호/MainClass.java:19:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/서영호/MainClass.java:19:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/서영호/MainClass.java:19:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/서영호/MainClass.java:19:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/서영호/MainClass.java:19:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/서영호/MainClass.java:19:	To avoid mistakes add a comment at the beginning of the jb1 field if you want a default access modifier
+src/서영호/MainClass.java:19:	To avoid mistakes add a comment at the beginning of the jb1 field if you want a default access modifier
+src/서영호/MainClass.java:19:	Use explicit scoping instead of the default package private level
+src/서영호/MainClass.java:19:	Use explicit scoping instead of the default package private level
+src/서영호/MainClass.java:19:	Use one line for each declaration, it enhances code readability.
+src/서영호/MainClass.java:19:	Use one line for each declaration, it enhances code readability.
+src/서영호/MainClass.java:20:	Avoid variables with short names like ja
+src/서영호/MainClass.java:20:	Avoid variables with short names like ja
+src/서영호/MainClass.java:20:	Field comments are required
+src/서영호/MainClass.java:20:	Field comments are required
+src/서영호/MainClass.java:20:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/서영호/MainClass.java:20:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/서영호/MainClass.java:20:	To avoid mistakes add a comment at the beginning of the ja field if you want a default access modifier
+src/서영호/MainClass.java:20:	To avoid mistakes add a comment at the beginning of the ja field if you want a default access modifier
+src/서영호/MainClass.java:20:	Use explicit scoping instead of the default package private level
+src/서영호/MainClass.java:20:	Use explicit scoping instead of the default package private level
+src/서영호/MainClass.java:22:	Field comments are required
+src/서영호/MainClass.java:22:	Field comments are required
+src/서영호/MainClass.java:22:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/서영호/MainClass.java:22:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/서영호/MainClass.java:22:	To avoid mistakes add a comment at the beginning of the pt1 field if you want a default access modifier
+src/서영호/MainClass.java:22:	To avoid mistakes add a comment at the beginning of the pt1 field if you want a default access modifier
+src/서영호/MainClass.java:22:	Use explicit scoping instead of the default package private level
+src/서영호/MainClass.java:22:	Use explicit scoping instead of the default package private level
+src/서영호/MainClass.java:23:	Field comments are required
+src/서영호/MainClass.java:23:	Field comments are required
+src/서영호/MainClass.java:23:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/서영호/MainClass.java:23:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/서영호/MainClass.java:23:	To avoid mistakes add a comment at the beginning of the pt2 field if you want a default access modifier
+src/서영호/MainClass.java:23:	To avoid mistakes add a comment at the beginning of the pt2 field if you want a default access modifier
+src/서영호/MainClass.java:23:	Use explicit scoping instead of the default package private level
+src/서영호/MainClass.java:23:	Use explicit scoping instead of the default package private level
+src/서영호/MainClass.java:24:	Field comments are required
+src/서영호/MainClass.java:24:	Field comments are required
+src/서영호/MainClass.java:24:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/서영호/MainClass.java:24:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/서영호/MainClass.java:24:	To avoid mistakes add a comment at the beginning of the bg1 field if you want a default access modifier
+src/서영호/MainClass.java:24:	To avoid mistakes add a comment at the beginning of the bg1 field if you want a default access modifier
+src/서영호/MainClass.java:24:	Use explicit scoping instead of the default package private level
+src/서영호/MainClass.java:24:	Use explicit scoping instead of the default package private level
+src/서영호/MainClass.java:26:	Public method and constructor comments are required
+src/서영호/MainClass.java:26:	Public method and constructor comments are required
+src/서영호/MainClass.java:33:	Local variable 'hbox' could be declared final
+src/서영호/MainClass.java:33:	Local variable 'hbox' could be declared final
+src/서영호/MainClass.java:52:	Local variable 'qhbox' could be declared final
+src/서영호/MainClass.java:52:	Local variable 'qhbox' could be declared final
+src/서영호/MainClass.java:65:	Local variable 'vbox' could be declared final
+src/서영호/MainClass.java:65:	Local variable 'vbox' could be declared final
+src/서영호/MainClass.java:75:	Local variable 'hhbox' could be declared final
+src/서영호/MainClass.java:75:	Local variable 'hhbox' could be declared final
+src/서영호/MainClass.java:86:	Local variable 'hhhbox' could be declared final
+src/서영호/MainClass.java:86:	Local variable 'hhhbox' could be declared final
+src/서영호/MainClass.java:96:	Parameter 'args' is not assigned and could be declared final
+src/서영호/MainClass.java:96:	Parameter 'args' is not assigned and could be declared final
+src/서영호/MainClass.java:96:	Public method and constructor comments are required
+src/서영호/MainClass.java:96:	Public method and constructor comments are required
+src/서영호/MainClass.java:98:	Avoid unused local variables such as 'mc'.
+src/서영호/MainClass.java:98:	Avoid unused local variables such as 'mc'.
+src/서영호/MainClass.java:98:	Avoid variables with short names like mc
+src/서영호/MainClass.java:98:	Avoid variables with short names like mc
+src/서영호/MainClass.java:98:	Found 'DU'-anomaly for variable 'mc' (lines '98'-'99').
+src/서영호/MainClass.java:98:	Found 'DU'-anomaly for variable 'mc' (lines '98'-'99').
+src/서영호/MainClass.java:98:	Local variable 'mc' could be declared final
+src/서영호/MainClass.java:98:	Local variable 'mc' could be declared final
+src/서영호/MainClass.java:102:	Avoid variables with short names like e
+src/서영호/MainClass.java:102:	Avoid variables with short names like e
+src/서영호/MainClass.java:102:	Parameter 'e' is not assigned and could be declared final
+src/서영호/MainClass.java:102:	Parameter 'e' is not assigned and could be declared final
+src/서영호/MainClass.java:102:	The method 'actionPerformed' has a Modified Cyclomatic Complexity of 12.
+src/서영호/MainClass.java:102:	The method 'actionPerformed' has a Modified Cyclomatic Complexity of 12.
+src/서영호/MainClass.java:102:	The method 'actionPerformed' has a Standard Cyclomatic Complexity of 12.
+src/서영호/MainClass.java:102:	The method 'actionPerformed' has a Standard Cyclomatic Complexity of 12.
+src/서영호/MainClass.java:102:	The method 'actionPerformed(ActionEvent)' has a cyclomatic complexity of 12.
+src/서영호/MainClass.java:102:	The method 'actionPerformed(ActionEvent)' has a cyclomatic complexity of 12.
+src/서영호/MainClass.java:102:	The method 'actionPerformed(ActionEvent)' has an NPath complexity of 260
+src/서영호/MainClass.java:102:	The method 'actionPerformed(ActionEvent)' has an NPath complexity of 260
+src/서영호/MainClass.java:104:	Local variable 'con' could be declared final
+src/서영호/MainClass.java:104:	Local variable 'con' could be declared final
+src/서영호/MainClass.java:106:	Local variable 'enums' could be declared final
+src/서영호/MainClass.java:106:	Local variable 'enums' could be declared final
+src/서영호/MainClass.java:107:	Potential violation of Law of Demeter (method chain calls)
+src/서영호/MainClass.java:107:	Potential violation of Law of Demeter (method chain calls)
+src/서영호/MainClass.java:107:	Potential violation of Law of Demeter (method chain calls)
+src/서영호/MainClass.java:107:	Potential violation of Law of Demeter (method chain calls)
+src/서영호/MainClass.java:108:	Avoid unused local variables such as 'bt'.
+src/서영호/MainClass.java:108:	Avoid unused local variables such as 'bt'.
+src/서영호/MainClass.java:108:	Avoid variables with short names like bt
+src/서영호/MainClass.java:108:	Avoid variables with short names like bt
+src/서영호/MainClass.java:109:	Potential violation of Law of Demeter (object not created locally)
+src/서영호/MainClass.java:109:	Potential violation of Law of Demeter (object not created locally)
+src/서영호/MainClass.java:110:	Avoid variables with short names like ab
+src/서영호/MainClass.java:110:	Avoid variables with short names like ab
+src/서영호/MainClass.java:110:	Local variable 'ab' could be declared final
+src/서영호/MainClass.java:110:	Local variable 'ab' could be declared final
+src/서영호/MainClass.java:110:	Potential violation of Law of Demeter (object not created locally)
+src/서영호/MainClass.java:110:	Potential violation of Law of Demeter (object not created locally)
+src/서영호/MainClass.java:111:	Local variable 'jr1' could be declared final
+src/서영호/MainClass.java:111:	Local variable 'jr1' could be declared final
+src/서영호/MainClass.java:112:	Found 'DU'-anomaly for variable 'jr2' (lines '112'-'148').
+src/서영호/MainClass.java:112:	Found 'DU'-anomaly for variable 'jr2' (lines '112'-'148').
+src/서영호/MainClass.java:112:	Local variable 'jr2' could be declared final
+src/서영호/MainClass.java:112:	Local variable 'jr2' could be declared final
+src/서영호/MainClass.java:114:	Deeply nested if..then statements are hard to read
+src/서영호/MainClass.java:114:	Deeply nested if..then statements are hard to read
+src/서영호/MainClass.java:114:	Potential violation of Law of Demeter (object not created locally)
+src/서영호/MainClass.java:114:	Potential violation of Law of Demeter (object not created locally)
+src/서영호/MainClass.java:115:	Found 'DU'-anomaly for variable 'bt' (lines '115'-'148').
+src/서영호/MainClass.java:115:	Found 'DU'-anomaly for variable 'bt' (lines '115'-'148').
+src/서영호/MainClass.java:115:	Potential violation of Law of Demeter (method chain calls)
+src/서영호/MainClass.java:115:	Potential violation of Law of Demeter (method chain calls)
+src/서영호/MainClass.java:115:	Potential violation of Law of Demeter (method chain calls)
+src/서영호/MainClass.java:115:	Potential violation of Law of Demeter (method chain calls)
+src/서영호/MainClass.java:115:	Potential violation of Law of Demeter (object not created locally)
+src/서영호/MainClass.java:115:	Potential violation of Law of Demeter (object not created locally)
+src/서영호/MainClass.java:119:	Deeply nested if..then statements are hard to read
+src/서영호/MainClass.java:119:	Deeply nested if..then statements are hard to read
+src/서영호/MainClass.java:119:	Potential violation of Law of Demeter (object not created locally)
+src/서영호/MainClass.java:119:	Potential violation of Law of Demeter (object not created locally)
+src/서영호/MainClass.java:120:	Found 'DU'-anomaly for variable 'bt' (lines '120'-'148').
+src/서영호/MainClass.java:120:	Found 'DU'-anomaly for variable 'bt' (lines '120'-'148').
+src/서영호/MainClass.java:120:	Potential violation of Law of Demeter (method chain calls)
+src/서영호/MainClass.java:120:	Potential violation of Law of Demeter (method chain calls)
+src/서영호/MainClass.java:120:	Potential violation of Law of Demeter (method chain calls)
+src/서영호/MainClass.java:120:	Potential violation of Law of Demeter (method chain calls)
+src/서영호/MainClass.java:120:	Potential violation of Law of Demeter (object not created locally)
+src/서영호/MainClass.java:120:	Potential violation of Law of Demeter (object not created locally)
+src/서영호/MainClass.java:128:	An empty statement (semicolon) not part of a loop
+src/서영호/MainClass.java:128:	An empty statement (semicolon) not part of a loop
+src/서영호/MainClass.java:128:	Avoid empty if statements
+src/서영호/MainClass.java:128:	Avoid empty if statements
+src/서영호/MainClass.java:128:	Avoid using Literals in Conditional Statements
+src/서영호/MainClass.java:128:	Avoid using Literals in Conditional Statements
+src/서영호/MainClass.java:128:	Avoid using if statements without curly braces
+src/서영호/MainClass.java:128:	Avoid using if statements without curly braces
+src/서영호/MainClass.java:128:	This statement should have braces
+src/서영호/MainClass.java:128:	This statement should have braces
+src/서영호/MainClass.java:133:	Local variable 'con' could be declared final
+src/서영호/MainClass.java:133:	Local variable 'con' could be declared final
+src/서영호/MainClass.java:134:	An empty statement (semicolon) not part of a loop
+src/서영호/MainClass.java:134:	An empty statement (semicolon) not part of a loop
+src/서영호/MainClass.java:134:	Avoid empty if statements
+src/서영호/MainClass.java:134:	Avoid empty if statements
+src/서영호/MainClass.java:134:	Avoid using if statements without curly braces
+src/서영호/MainClass.java:134:	Avoid using if statements without curly braces
+src/서영호/MainClass.java:134:	This statement should have braces
+src/서영호/MainClass.java:134:	This statement should have braces
+src/서영호/MainClass.java:135:	An empty statement (semicolon) not part of a loop
+src/서영호/MainClass.java:135:	An empty statement (semicolon) not part of a loop
+src/서영호/MainClass.java:135:	Avoid empty if statements
+src/서영호/MainClass.java:135:	Avoid empty if statements
+src/서영호/MainClass.java:135:	Avoid using Literals in Conditional Statements
+src/서영호/MainClass.java:135:	Avoid using Literals in Conditional Statements
+src/서영호/MainClass.java:135:	Avoid using if statements without curly braces
+src/서영호/MainClass.java:135:	Avoid using if statements without curly braces
+src/서영호/MainClass.java:135:	This statement should have braces
+src/서영호/MainClass.java:135:	This statement should have braces
+src/서영호/MainClass.java:139:	Local variable 'str' could be declared final
+src/서영호/MainClass.java:139:	Local variable 'str' could be declared final
+src/서영호/MainClass.java:144:	Local variable 'dan' could be declared final
+src/서영호/MainClass.java:144:	Local variable 'dan' could be declared final
+src/서영호/MainClass.java:145:	Local variable 'gugu' could be declared final
+src/서영호/MainClass.java:145:	Local variable 'gugu' could be declared final
+src/서영호/MemberData.java:3:	Header comments are required
+src/서영호/MemberData.java:3:	Header comments are required
+src/서영호/MemberData.java:3:	The class 'MemberData' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=8, WMC=9)
+src/서영호/MemberData.java:3:	The class 'MemberData' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=8, WMC=9)
+src/서영호/MemberData.java:4:	Field comments are required
+src/서영호/MemberData.java:4:	Field comments are required
+src/서영호/MemberData.java:5:	Field comments are required
+src/서영호/MemberData.java:5:	Field comments are required
+src/서영호/MemberData.java:6:	Field comments are required
+src/서영호/MemberData.java:6:	Field comments are required
+src/서영호/MemberData.java:7:	Field comments are required
+src/서영호/MemberData.java:7:	Field comments are required
+src/서영호/MemberData.java:9:	Parameter 'gender' is not assigned and could be declared final
+src/서영호/MemberData.java:9:	Parameter 'gender' is not assigned and could be declared final
+src/서영호/MemberData.java:9:	Parameter 'memberID' is not assigned and could be declared final
+src/서영호/MemberData.java:9:	Parameter 'memberID' is not assigned and could be declared final
+src/서영호/MemberData.java:9:	Parameter 'name' is not assigned and could be declared final
+src/서영호/MemberData.java:9:	Parameter 'name' is not assigned and could be declared final
+src/서영호/MemberData.java:9:	Parameter 'tel' is not assigned and could be declared final
+src/서영호/MemberData.java:9:	Parameter 'tel' is not assigned and could be declared final
+src/서영호/MemberData.java:9:	Public method and constructor comments are required
+src/서영호/MemberData.java:9:	Public method and constructor comments are required
+src/서영호/MemberData.java:21:	Parameter 'memberID' is not assigned and could be declared final
+src/서영호/MemberData.java:21:	Parameter 'memberID' is not assigned and could be declared final
+src/서영호/MemberData.java:27:	Parameter 'name' is not assigned and could be declared final
+src/서영호/MemberData.java:27:	Parameter 'name' is not assigned and could be declared final
+src/서영호/MemberData.java:33:	Parameter 'tel' is not assigned and could be declared final
+src/서영호/MemberData.java:33:	Parameter 'tel' is not assigned and could be declared final
+src/서영호/MemberData.java:39:	Parameter 'gender' is not assigned and could be declared final
+src/서영호/MemberData.java:39:	Parameter 'gender' is not assigned and could be declared final
+src/서영호/ProgTest1.java:3:	Each class should declare at least one constructor
+src/서영호/ProgTest1.java:3:	Each class should declare at least one constructor
+src/서영호/ProgTest1.java:3:	Header comments are required
+src/서영호/ProgTest1.java:3:	Header comments are required
+src/서영호/ProgTest1.java:5:	Avoid using redundant field initializer for 'cVar'
+src/서영호/ProgTest1.java:5:	Avoid using redundant field initializer for 'cVar'
+src/서영호/ProgTest1.java:5:	Field comments are required
+src/서영호/ProgTest1.java:5:	Field comments are required
+src/서영호/ProgTest1.java:6:	Field comments are required
+src/서영호/ProgTest1.java:6:	Field comments are required
+src/서영호/ProgTest1.java:6:	To avoid mistakes add a comment at the beginning of the iStr field if you want a default access modifier
+src/서영호/ProgTest1.java:6:	To avoid mistakes add a comment at the beginning of the iStr field if you want a default access modifier
+src/서영호/ProgTest1.java:6:	Use explicit scoping instead of the default package private level
+src/서영호/ProgTest1.java:6:	Use explicit scoping instead of the default package private level
+src/서영호/ProgTest1.java:7:	Field comments are required
+src/서영호/ProgTest1.java:7:	Field comments are required
+src/서영호/ProgTest1.java:7:	To avoid mistakes add a comment at the beginning of the iDouble field if you want a default access modifier
+src/서영호/ProgTest1.java:7:	To avoid mistakes add a comment at the beginning of the iDouble field if you want a default access modifier
+src/서영호/ProgTest1.java:7:	Use explicit scoping instead of the default package private level
+src/서영호/ProgTest1.java:7:	Use explicit scoping instead of the default package private level
+src/서영호/ProgTest1.java:8:	Avoid using redundant field initializer for 'iBool'
+src/서영호/ProgTest1.java:8:	Avoid using redundant field initializer for 'iBool'
+src/서영호/ProgTest1.java:8:	Field comments are required
+src/서영호/ProgTest1.java:8:	Field comments are required
+src/서영호/ProgTest1.java:8:	To avoid mistakes add a comment at the beginning of the iBool field if you want a default access modifier
+src/서영호/ProgTest1.java:8:	To avoid mistakes add a comment at the beginning of the iBool field if you want a default access modifier
+src/서영호/ProgTest1.java:8:	Use explicit scoping instead of the default package private level
+src/서영호/ProgTest1.java:8:	Use explicit scoping instead of the default package private level
+src/서영호/ProgTest1.java:9:	Field comments are required
+src/서영호/ProgTest1.java:9:	Field comments are required
+src/서영호/ProgTest1.java:9:	To avoid mistakes add a comment at the beginning of the iChar field if you want a default access modifier
+src/서영호/ProgTest1.java:9:	To avoid mistakes add a comment at the beginning of the iChar field if you want a default access modifier
+src/서영호/ProgTest1.java:9:	Use explicit scoping instead of the default package private level
+src/서영호/ProgTest1.java:9:	Use explicit scoping instead of the default package private level
+src/서영호/ProgTest1.java:11:	Parameter 'dan' is not assigned and could be declared final
+src/서영호/ProgTest1.java:11:	Parameter 'dan' is not assigned and could be declared final
+src/서영호/ProgTest1.java:11:	To avoid mistakes add a comment at the beginning of the getGugudan method if you want a default access modifier
+src/서영호/ProgTest1.java:11:	To avoid mistakes add a comment at the beginning of the getGugudan method if you want a default access modifier
+src/서영호/ProgTest1.java:11:	Use explicit scoping instead of the default package private level
+src/서영호/ProgTest1.java:11:	Use explicit scoping instead of the default package private level
+src/서영호/ProgTest1.java:16:	Avoid if (x != y) ..; else ..;
+src/서영호/ProgTest1.java:16:	Avoid if (x != y) ..; else ..;
+src/서영호/ProgTest1.java:16:	Avoid using Literals in Conditional Statements
+src/서영호/ProgTest1.java:16:	Avoid using Literals in Conditional Statements
+src/서영호/ProgTest1.java:17:	Prefer StringBuilder (non-synchronized) or StringBuffer (synchronized) over += for concatenating strings
+src/서영호/ProgTest1.java:17:	Prefer StringBuilder (non-synchronized) or StringBuffer (synchronized) over += for concatenating strings
+src/서영호/ProgTest1.java:19:	Prefer StringBuilder (non-synchronized) or StringBuffer (synchronized) over += for concatenating strings
+src/서영호/ProgTest1.java:19:	Prefer StringBuilder (non-synchronized) or StringBuffer (synchronized) over += for concatenating strings
+src/서영호/ProgTest1.java:25:	Parameter 'args' is not assigned and could be declared final
+src/서영호/ProgTest1.java:25:	Parameter 'args' is not assigned and could be declared final
+src/서영호/ProgTest1.java:25:	Public method and constructor comments are required
+src/서영호/ProgTest1.java:25:	Public method and constructor comments are required
+src/서영호/ProgTest1.java:26:	Avoid variables with short names like pt
+src/서영호/ProgTest1.java:26:	Avoid variables with short names like pt
+src/서영호/ProgTest1.java:26:	Local variable 'pt' could be declared final
+src/서영호/ProgTest1.java:26:	Local variable 'pt' could be declared final
+src/서영호/ProgTest1.java:27:	System.out.println is used
+src/서영호/ProgTest1.java:27:	System.out.println is used
+src/서영호/ProgTest2.java:5:	Each class should declare at least one constructor
+src/서영호/ProgTest2.java:5:	Each class should declare at least one constructor
+src/서영호/ProgTest2.java:5:	Header comments are required
+src/서영호/ProgTest2.java:5:	Header comments are required
+src/서영호/ProgTest2.java:7:	Field comments are required
+src/서영호/ProgTest2.java:7:	Field comments are required
+src/서영호/ProgTest2.java:7:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/서영호/ProgTest2.java:7:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/서영호/ProgTest2.java:7:	If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/서영호/ProgTest2.java:7:	If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/서영호/ProgTest2.java:7:	To avoid mistakes add a comment at the beginning of the mapList field if you want a default access modifier
+src/서영호/ProgTest2.java:7:	To avoid mistakes add a comment at the beginning of the mapList field if you want a default access modifier
+src/서영호/ProgTest2.java:7:	Use explicit scoping instead of the default package private level
+src/서영호/ProgTest2.java:7:	Use explicit scoping instead of the default package private level
+src/서영호/ProgTest2.java:9:	Parameter 'gender' is not assigned and could be declared final
+src/서영호/ProgTest2.java:9:	Parameter 'gender' is not assigned and could be declared final
+src/서영호/ProgTest2.java:9:	Parameter 'memberID' is not assigned and could be declared final
+src/서영호/ProgTest2.java:9:	Parameter 'memberID' is not assigned and could be declared final
+src/서영호/ProgTest2.java:9:	Parameter 'name' is not assigned and could be declared final
+src/서영호/ProgTest2.java:9:	Parameter 'name' is not assigned and could be declared final
+src/서영호/ProgTest2.java:9:	Parameter 'tel' is not assigned and could be declared final
+src/서영호/ProgTest2.java:9:	Parameter 'tel' is not assigned and could be declared final
+src/서영호/ProgTest2.java:9:	To avoid mistakes add a comment at the beginning of the mapListAdd method if you want a default access modifier
+src/서영호/ProgTest2.java:9:	To avoid mistakes add a comment at the beginning of the mapListAdd method if you want a default access modifier
+src/서영호/ProgTest2.java:9:	Use explicit scoping instead of the default package private level
+src/서영호/ProgTest2.java:9:	Use explicit scoping instead of the default package private level
+src/서영호/ProgTest2.java:10:	Avoid variables with short names like md
+src/서영호/ProgTest2.java:10:	Avoid variables with short names like md
+src/서영호/ProgTest2.java:10:	Local variable 'md' could be declared final
+src/서영호/ProgTest2.java:10:	Local variable 'md' could be declared final
+src/서영호/ProgTest2.java:14:	Parameter 'gender' is not assigned and could be declared final
+src/서영호/ProgTest2.java:14:	Parameter 'gender' is not assigned and could be declared final
+src/서영호/ProgTest2.java:14:	Parameter 'memberID' is not assigned and could be declared final
+src/서영호/ProgTest2.java:14:	Parameter 'memberID' is not assigned and could be declared final
+src/서영호/ProgTest2.java:14:	Parameter 'name' is not assigned and could be declared final
+src/서영호/ProgTest2.java:14:	Parameter 'name' is not assigned and could be declared final
+src/서영호/ProgTest2.java:14:	Parameter 'tel' is not assigned and could be declared final
+src/서영호/ProgTest2.java:14:	Parameter 'tel' is not assigned and could be declared final
+src/서영호/ProgTest2.java:14:	To avoid mistakes add a comment at the beginning of the mapListRemove method if you want a default access modifier
+src/서영호/ProgTest2.java:14:	To avoid mistakes add a comment at the beginning of the mapListRemove method if you want a default access modifier
+src/서영호/ProgTest2.java:14:	Use explicit scoping instead of the default package private level
+src/서영호/ProgTest2.java:14:	Use explicit scoping instead of the default package private level
+src/서영호/ProgTest2.java:15:	Avoid variables with short names like md
+src/서영호/ProgTest2.java:15:	Avoid variables with short names like md
+src/서영호/ProgTest2.java:15:	Local variable 'md' could be declared final
+src/서영호/ProgTest2.java:15:	Local variable 'md' could be declared final
+src/서영호/ProgTest2.java:19:	Avoid using implementation types like 'ArrayList'; use the interface instead
+src/서영호/ProgTest2.java:19:	Avoid using implementation types like 'ArrayList'; use the interface instead
+src/서영호/ProgTest2.java:19:	To avoid mistakes add a comment at the beginning of the getMapList method if you want a default access modifier
+src/서영호/ProgTest2.java:19:	To avoid mistakes add a comment at the beginning of the getMapList method if you want a default access modifier
+src/서영호/ProgTest2.java:19:	Use explicit scoping instead of the default package private level
+src/서영호/ProgTest2.java:19:	Use explicit scoping instead of the default package private level
+src/서영호/ProgTest2.java:20:	Local variable 'keyset' could be declared final
+src/서영호/ProgTest2.java:20:	Local variable 'keyset' could be declared final
+src/서영호/ProgTest2.java:21:	Local variable 'keyiterator' could be declared final
+src/서영호/ProgTest2.java:21:	Local variable 'keyiterator' could be declared final
+src/서영호/ProgTest2.java:21:	Potential violation of Law of Demeter (object not created locally)
+src/서영호/ProgTest2.java:21:	Potential violation of Law of Demeter (object not created locally)
+src/서영호/ProgTest2.java:22:	Avoid variables with short names like al
+src/서영호/ProgTest2.java:22:	Avoid variables with short names like al
+src/서영호/ProgTest2.java:22:	Explicit type arguments can be replaced by Diamond Operator
+src/서영호/ProgTest2.java:22:	Explicit type arguments can be replaced by Diamond Operator
+src/서영호/ProgTest2.java:22:	Local variable 'al' could be declared final
+src/서영호/ProgTest2.java:22:	Local variable 'al' could be declared final
+src/서영호/ProgTest2.java:25:	Local variable 'memberID' could be declared final
+src/서영호/ProgTest2.java:25:	Local variable 'memberID' could be declared final
+src/서영호/ProgTest2.java:26:	Local variable 'name' could be declared final
+src/서영호/ProgTest2.java:26:	Local variable 'name' could be declared final
+src/서영호/ProgTest2.java:27:	Local variable 'tel' could be declared final
+src/서영호/ProgTest2.java:27:	Local variable 'tel' could be declared final
+src/서영호/ProgTest2.java:28:	Local variable 'gender' could be declared final
+src/서영호/ProgTest2.java:28:	Local variable 'gender' could be declared final
+src/서영호/ProgTest2.java:29:	System.out.println is used
+src/서영호/ProgTest2.java:29:	System.out.println is used
